@@ -1,1 +1,5 @@
 This is a test file.
+
+With GitHub, you can deploy from a branch for final testing in production before merging to master.
+
+Once your pull request has been reviewed and the branch passes your tests, you can deploy your changes to verify them in production. If your branch causes issues, you can roll it back by deploying the existing master into production.
