@@ -7,3 +7,5 @@ Once your pull request has been reviewed and the branch passes your tests, you c
 Adding more content with svn.
 
 Testing vim for windows and git, too.
+
+Testing notepad++.
